@@ -1,0 +1,10 @@
+
+Name: Jonathan Duran-Diaz
+
+Project title: Personal Budgeting Tool
+
+Project stack: Python - Flask
+
+Github Repo link: https://github.com/djonathanduran/Budget-tool
+
+Project description: This is a personal tool that people can use to keep track of their income and expenses. It allows them to visually see how much of their income is disposable and help save

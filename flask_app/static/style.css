@@ -1,0 +1,88 @@
+.wholepage {
+    display: flex;
+    
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.collums {
+    margin: 20px;
+    
+    background-color: lightslategray;
+    height: 525px;
+    width: 375px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.collums2 {
+    margin: 20px;
+    /* margin-left: 80px; */
+    background-color: lightslategray;
+    height: 525px;
+    width: 375px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.collums_stretch {
+    margin: 20px;
+    
+    background-color: lightslategray;
+    height: 500px;
+    width: fit-content;
+    padding: 30px;
+    display: inline-block;
+}
+
+.form {
+    margin-bottom: 15px;
+    color: antiquewhite;
+}
+
+.label {
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+.space {
+    margin: 7px;
+    display: inline;
+}
+
+th {
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+    padding-right: 10px;
+}
+
+table {
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+}
+
+a {
+    margin: 10px;
+}
+
+td {
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+}
+
+.topP {
+    padding-top: 15px;
+}
+
+.link {
+    color: rgb(255, 38, 0);
+    margin: 7px;
+    display: inline;
+}
